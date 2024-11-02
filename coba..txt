@@ -1,2 +1,3 @@
 ini adalah yang saya tulis pertama kali untuk belajar github
-      saya belajar gituhub sebagai jalan untuk mengembangkan kemampuan berkerja secara berkelompok
+saya belajar gituhub sebagai jalan untuk mengembangkan kemampuan berkerja secara berkelompok
+jadi kedepannya saya akan berniat mengupload semua apa yang sudah saya kerjakan selama perkuliahan
